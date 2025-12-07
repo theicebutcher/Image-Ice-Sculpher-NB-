@@ -1,0 +1,10 @@
+Flask
+openai
+python-dotenv
+rapidfuzz
+flask-cors
+Pillow
+requests
+google-genai
+psutil
+gunicorn
